@@ -1,0 +1,6 @@
+id;column_1;column_2;column_3;column_4
+1;4;Moscow;June;2019;257
+2;7;Moscow;June;2019;304
+3;5;Novgorod;July;2018;435
+10;9;Kazan;September;2020;270
+14;3;Saint Petersburg;November;2019;342
