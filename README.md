@@ -5,4 +5,9 @@ This is the page of the course taught at New Economic School for students of MAE
 Below you can find the content of the course:
 
 ## todo:
-[ff](https://github.com/kkrainev/Intro-in-Python/new/master?readme=1)
+[Section 
+1:](https://github.com/kkrainev/Intro-in-Python/new/master?readme=1)
+
+[Section 2:]()
+
+[Section 3:]()
