@@ -40,3 +40,11 @@ Below you can find the content of the course:
 * Basics of unconstrained & constrained optimization
 * Loading financial/economic data with pandas
 * Basics of data scrapping (examplified on Central Bank page on max deposit rates across top 10 banks) 
+
+[Section 6:](https://github.com/kkrainev/Intro-in-Python/blob/master/Sections/Section%206/Python_Section_6.ipynb)
+* OLS, WLS, GLS
+* Instrumental Variables
+* Panel Data Models (Pooled OLS, FE, RE, FD, Between Estimator)
+* Discrete dependent variable models (logit & probit)
+* Time Series (Stationarity, ACF/PACF, AR(X), MA(X), ARMA(X), ARIMA(X), SARIMA(X), GARCH models)
+* GLM, Quantile Regression
